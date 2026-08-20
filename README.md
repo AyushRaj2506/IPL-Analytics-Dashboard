@@ -6,7 +6,7 @@ analyzing **295,000+ ball-by-ball records** across **1,243 IPL matches** from 20
 ---
 
 ## 🔗 Live App
-> Deploy to [Streamlit Community Cloud](https://streamlit.io/cloud) — add your link here after deployment.
+> https://ipl-analyticsdashboard.streamlit.app/
 
 ---
 
